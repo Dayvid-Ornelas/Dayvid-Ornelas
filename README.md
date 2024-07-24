@@ -5,7 +5,6 @@
 - ⚡ Curiosidade: Possuo TEA e TDHA
 
 <div>
-  <a href="https://www.workana.com/freelancer/84391de018aa7391cd57d27962a61d75">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-Ornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-Ornelas&layout=compact&langs_count=16&theme=dark"/>
 </div>
